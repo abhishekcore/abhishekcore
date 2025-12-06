@@ -18,15 +18,7 @@ Here are some ideas to get you started:
 
 
 
-</div>
 
-
-
-<div alige="center">
-
-  
-![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
-</div>
 
 
 <h1 align="center">Hi 👋, I'm abhishek UT</h1>
@@ -39,6 +31,17 @@ Here are some ideas to get you started:
 - 📫 How to reach me **abhishekut728@gmail.com**
 
 - ⚡ Fun fact **i am funny😊**
+ </div>
+
+
+
+<div alige="center">
+
+  
+![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
+</div>
+
+  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
