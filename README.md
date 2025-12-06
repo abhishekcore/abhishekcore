@@ -14,23 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fu<n fact: ...
 -->
-
-
-
-
-
-
-
 <h1 align="center">Hi 👋, I'm abhishek UT</h1>
-<h3 align="center">I'm currently studying computer science</h3>
-
+<h3 align="center">I'm currently s
 <img align="right" alt="coding" width="400" scr="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZkMnRndXl4Z2x1YzU1YWthbGUzdzhsMmU2MzllODc3M3FwMjU5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif">
+tudying computer science</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekcore&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekcore" /> </p>
 
 - 📫 How to reach me **abhishekut728@gmail.com**
 
 - ⚡ Fun fact **i am funny😊**
+  
  </div>
 
 
@@ -42,10 +37,10 @@ Here are some ideas to get you started:
 </div>
 
   
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek ut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ut" height="30" width="40" /></a>
+<a href="https://instagram.com/_blood._.line._.07" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_blood._.line._.07" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -56,6 +51,5 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhishekcore&show_icons=true&locale=en" alt="abhishekcore" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhishekcore&" alt="abhishekcore" /></p>
-  
 
-
+ 
