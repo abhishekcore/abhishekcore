@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm abhishek UT</h1>
 <h3 align="center">I'm currently s
-<img align="right" alt="coding" width="400" scr="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXZkMnRndXl4Z2x1YzU1YWthbGUzdzhsMmU2MzllODc3M3FwMjU5ZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/66M6ZwJkTLYikvhrqZ/giphy.gif">
+<img align="right" alt="coding" width="400" scr="Debug
+mode:
+: ON!">
 tudying computer science</h3>
 
 
