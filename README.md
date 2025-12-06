@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fu<n fact: ...
 -->
 <h1 align="center">Hi 👋, I'm abhishek UT</h1>
-<h3 align="center">I'm currently s
-<img align="right" alt="coding" width="400" scr="Debug
-mode:
-: ON!">
-tudying computer science</h3>
+<h3 align="center">I'm currently studying computer science</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekcore&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekcore" /> </p>
@@ -38,7 +34,9 @@ tudying computer science</h3>
 ![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
 </div>
 
-  
+  <img align="right" alt="coding" width="400" scr="Debug
+mode:
+: ON!">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek ut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ut" height="30" width="40" /></a>
