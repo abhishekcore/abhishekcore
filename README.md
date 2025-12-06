@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 
 <div alige="center">
+
+  
 ![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
 </div>
 
