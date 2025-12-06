@@ -2,7 +2,7 @@ name: GitHub Snake Game
 
 
 
-on:
+on: push
 
   # Schedule the workflow to run daily at midnight UTC
 
