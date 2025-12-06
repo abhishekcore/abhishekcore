@@ -12,5 +12,18 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fu<n fact: ...
 -->
+</div>
+
+
+
+<div alige="center">
+![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
+</div>
+
+
+<div alige="center">
+  
+![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
+</div>
