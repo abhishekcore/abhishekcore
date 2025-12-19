@@ -32,9 +32,9 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
 </div>
 
-  <img align="right" alt="coding" width="400" scr="Debug
-mode:
-: ON!">
+<img alt="coding" src="https://raw.githubusercontent.com/USER/REPO/main/path/to/image.png" style="width:400px; float:right;" />
+
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abhishek ut" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishek ut" height="30" width="40" /></a>
