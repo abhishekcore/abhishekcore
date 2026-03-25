@@ -31,8 +31,7 @@ Here are some ideas to get you started:
 ![snake gif](https://github.com/abhishekcore/abhishekcore/blob/output/github-snake-dark.svg)
 </div>
 
-<img alt="coding" src="https://raw.githubusercontent.com/USER/REPO/main/path/to/image.png" style="width:400px; float:right;" />
-
+ 
  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
